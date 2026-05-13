@@ -2,6 +2,8 @@
 
 Un reproductor de video moderno y elegante inspirado en Deepin Movie, construido con C++17, Qt 6 y libmpv.
 
+<img width="1366" height="729" alt="stellarplayer" src="https://github.com/user-attachments/assets/75e6acc5-7213-4495-8ba3-f816446380a1" />
+
 ## Características
 
 - **Reproducción multimedia**: Soporte para archivos locales y arrastrar y soltar.
