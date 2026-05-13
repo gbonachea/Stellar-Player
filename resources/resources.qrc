@@ -1,0 +1,11 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+<qresource>
+    <file alias="styles/dark.qss">../styles/dark.qss</file>
+    <file alias="styles/light.qss">../styles/light.qss</file>
+    <file alias="translations/StellarPlayer_en.qm">../translations/StellarPlayer_en.qm</file>
+    <file alias="translations/StellarPlayer_es.qm">../translations/StellarPlayer_es.qm</file>
+    <file alias="icons/stellarpalyer.png">../icons/stellarpalyer.png</file>
+    <file alias="icons/StellarPlayerAbout.png">../icons/StellarPlayerAbout.png</file>
+</qresource>
+</RCC>

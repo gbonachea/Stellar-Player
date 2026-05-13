@@ -1,0 +1,125 @@
+/* Light Theme Stylesheet for Stellar Player */
+
+QMainWindow {
+    background-color: #f0f0f0;
+    color: #1e1e1e;
+    border-radius: 10px;
+}
+
+QPushButton {
+    background-color: #dcdcdc;
+    color: #1e1e1e;
+    border: none;
+    border-radius: 5px;
+    padding: 5px;
+}
+
+QPushButton:hover {
+    background-color: #c8c8c8;
+}
+
+QPushButton:pressed {
+    background-color: #b4b4b4;
+}
+
+QSlider::groove:horizontal {
+    border: 1px solid #666666;
+    height: 8px;
+    background: #b4b4b4;
+    margin: 2px 0;
+    border-radius: 4px;
+}
+
+QSlider::handle:horizontal {
+    background: #787878;
+    border: 1px solid #333333;
+    width: 18px;
+    margin: -2px 0;
+    border-radius: 3px;
+}
+
+QSlider::handle:horizontal:hover {
+    background: #5a5a5a;
+}
+
+QLabel {
+    color: #1e1e1e;
+}
+
+QMenuBar {
+    background-color: #d4d4d4;
+    color: #1e1e1e;
+    border-bottom: 1px solid #bfbfbf;
+}
+
+QMenuBar::item {
+    background-color: transparent;
+    padding: 4px 8px;
+}
+
+QMenuBar::item:selected {
+    background-color: #bfbfbf;
+}
+
+QMenu {
+    background-color: #d4d4d4;
+    color: #1e1e1e;
+    border: 1px solid #bfbfbf;
+}
+
+QMenu::item {
+    padding: 4px 20px;
+}
+
+QMenu::item:selected {
+    background-color: #bfbfbf;
+}
+
+QDialog {
+    background-color: #f0f0f0;
+    color: #1e1e1e;
+    border-radius: 10px;
+}
+
+QGroupBox {
+    font-weight: bold;
+    border: 2px solid #bfbfbf;
+    border-radius: 5px;
+    margin-top: 1ex;
+    color: #1e1e1e;
+}
+
+QGroupBox::title {
+    subcontrol-origin: margin;
+    left: 10px;
+    padding: 0 5px 0 5px;
+    color: #1e1e1e;
+}
+
+QComboBox {
+    background-color: #dcdcdc;
+    color: #1e1e1e;
+    border: 1px solid #333333;
+    border-radius: 3px;
+    padding: 2px;
+}
+
+QComboBox::drop-down {
+    border: none;
+}
+
+QComboBox::down-arrow {
+    image: url(:/icons/down_arrow.png);
+}
+
+QSpinBox {
+    background-color: #dcdcdc;
+    color: #1e1e1e;
+    border: 1px solid #333333;
+    border-radius: 3px;
+    padding: 2px;
+}
+
+QDialogButtonBox QPushButton {
+    min-width: 80px;
+}
