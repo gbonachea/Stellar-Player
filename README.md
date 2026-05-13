@@ -4,7 +4,7 @@ Un reproductor de video moderno y elegante inspirado en Deepin Movie, construido
 
 ## Características
 
-- **Reproducción multimedia**: Soporte para archivos locales, streaming (HTTP, HTTPS, RTSP, RTMP, HLS) y arrastrar y soltar.
+- **Reproducción multimedia**: Soporte para archivos locales y arrastrar y soltar.
 - **Controles completos**: Reproducir/pausar, detener, adelantar, retroceder, velocidad variable, bucle, volumen y mute.
 - **Subtítulos**: Carga de archivos .srt, .ass, .ssa con ajustes de tamaño, color, posición y sincronización.
 - **Listas de reproducción**: Soporte para M3U/M3U8 con reproducción aleatoria y repetición.
